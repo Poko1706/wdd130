@@ -54,6 +54,9 @@ h1 {
 }
 article {
     position: absolute;
+    bottom: 20px;
+    width: 100%;
+    padding: 16px;
 }
 .hero article img {
     float: right;
