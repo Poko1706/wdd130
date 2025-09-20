@@ -28,8 +28,8 @@ h1, h2 {
     color: var(--primary-color);
 }
 nav, p, section, article {
-    margin: 16 px;
-    padding: 8 px;
+    margin: 16px;
+    padding: 8px;
 }
 .socialmedia a {
     text-decoration: none;
@@ -44,9 +44,9 @@ nav, p, section, article {
 }
 h1 {
     position: absolute;
-    top: 20 px;
+    top: 20px;
     width: 100%;
-    padding: 16 px;
+    padding: 16px;
     text-align: center;
     opacity: 0.7;
     background-color: var(--accent1-color);
@@ -54,5 +54,5 @@ h1 {
 }
 .hero article img {
     float: right;
-    width: 125 px;
+    width: 125px;
 }
