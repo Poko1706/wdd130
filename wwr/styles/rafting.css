@@ -9,6 +9,9 @@
 header {
     background-color: var(--primary-color);
     color: var(--accent2-color);
+    display: grid;
+    grid-template-columns: 120px 1fr 1fr;
+    align-items: center;
 }
 * {
     margin: 0;
@@ -64,4 +67,9 @@ article {
 .hero article img {
     float: right;
     width: 125px;
+}
+nav {
+    display: flex;
+    list-style: none;
+    flex: 1 1 auto;
 }
